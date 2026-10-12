@@ -1,0 +1,12 @@
+[project]
+name = "tp0-setup"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "azure-quantum>=3.1.0",
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.10.3",
+    "qsharp>=1.15.0",
+]
